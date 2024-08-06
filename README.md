@@ -17,7 +17,7 @@
   
 </td>
 <td width="50%" align="center" border="none">
-  <img align="center" alt="Coding" width="400" src="https://github.com/SahanDilusha/SahanDilusha/blob/4a077291cf9c4aba80d09eb69666433a486fa83d/Designer%20building%20website.gif?raw=true" >
+  <img align="center" alt="Coding" width="300" src="https://github.com/SahanDilusha/SahanDilusha/blob/4a077291cf9c4aba80d09eb69666433a486fa83d/Designer%20building%20website.gif?raw=true" >
 </td>
 </tr>
 </table>
